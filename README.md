@@ -1,4 +1,4 @@
-# Scheduler for Venmo
-An app to schedule automatic Venmo payments and requests
+# Venflo: Scheduler for Venmo and PayPal payments and requests
+An app to schedule automatic Venmo and PayParl payments and requests
 
-This is a mono-repo containing both front and backend code for the Scheduler for Venmo app.
+This is a mono-repo containing both front and backend code for the Venflo app.
